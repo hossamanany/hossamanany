@@ -10,14 +10,6 @@ I'm an avid smart contract/blockchain software engineer, and a web2 full-stack d
 
 I love reading, training, and believe in spreading goodness.
 
-
-
-#### Github Stats 📊
-
-[![Hossam's github stats](https://github-readme-stats.vercel.app/api?username=hossamanany)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **hossamanany/hossamanany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
